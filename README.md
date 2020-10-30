@@ -1,6 +1,8 @@
 【code description】
 The repository is support for lazyers and new fishers to help.
+
 And I'm both :)
+
 All of the codes is other programers. 
 
 stringtools.h   -   UTF-8,ANSI,Unicode To change characters
