@@ -1,9 +1,12 @@
-【代码工具说明】
+【code description】
+The repository is support for lazyers and new fishers to help.
+And I'm both :)
+All of the codes is other programers. 
 
-stringtools.h   -   UTF-8 ANSI Unicode 字符串转换
+stringtools.h   -   UTF-8,ANSI,Unicode To change characters
 
-UILog.h         -   日志
+UILog.h         -   log
 
-FileConfig      -   配置文件读取
+FileConfig      -   config file read
 
-CBase64					-   base64 编解码
+CBase64					-   base64 
