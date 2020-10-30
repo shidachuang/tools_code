@@ -35,4 +35,6 @@ std::string GetRandomNumberINT(int ilen)
 
 	return astrDes;
 }
+
+
 #endif	//__RANDOM_H__
