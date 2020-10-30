@@ -56,6 +56,4 @@ static char* UnZipData(_In_ char* bf_src, _In_ unsigned long sz_srclen, _Inout_ 
 
 	return (char*)unZipBuf;
 }
-
-
 #endif
