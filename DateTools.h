@@ -35,6 +35,5 @@ static string DateFormate(long lDate,char split)
     return szDate;
 }
 
-
 #endif
 
