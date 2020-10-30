@@ -172,5 +172,4 @@ static int AnalyzeStr(tstring strResource, LPCTSTR strDelimit, vector<tstring>& 
     return arrayString.size();
 }
 
-
 #endif
